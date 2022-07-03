@@ -1,0 +1,32 @@
+.chicken{
+    background-color: lightgray;
+    border: 2px solid black;
+}
+.Right{
+    text-align: right;
+    height: 40px;
+    width: 150px;
+    margin-left: 61%;
+    background-color: pink;
+    border: 2px solid black;
+    text-align: center;
+}
+.Right1{
+    text-align: right;
+    height: 40px;
+    width: 150px;
+    margin-left: 61%;
+    background-color: rgb(233, 78, 104);
+    border: 2px solid black;
+    text-align: center;
+    color: white;
+}
+.Right2{
+    text-align: right;
+    height: 40px;
+    width: 150px;
+    margin-left: 61%;
+    background-color: rgb(216, 201, 142);
+    border: 2px solid black;
+    text-align: center;
+}
